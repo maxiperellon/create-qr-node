@@ -1,0 +1,14 @@
+{
+  "name": "createqr",
+  "version": "1.0.0",
+  "description": "Creacion de generador de codigos QR",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.4.4"
+  }
+}
